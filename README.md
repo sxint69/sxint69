@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="left" width="1024" height="100" src="https://img.shields.io/badge/torchbyte.ro-_best_hosting_services-orange">
+  <img align="left" width="1024" height="100" src="https://img.shields.io/badge/torchbyte.com-_best_hosting_services-orange">
 </p>
 &nbsp;
 <h3 align="center">

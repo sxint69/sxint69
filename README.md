@@ -3,7 +3,7 @@
 </p>
 <br>
 <h1 align="center">
-  <img align="center" width="400" height="100" src="https://img.shields.io/badge/%F0%9F%8E%B0%20SUPERBET-red">
+  <img align="center" width="400" height="100" src="https://img.shields.io/badge/%F0%9F%8E%B0%20SuperBet-red">
 </h1>
 <br>
 <h3 align="center">

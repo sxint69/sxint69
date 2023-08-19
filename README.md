@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="left" width="100" height="100" src="https://img.shields.io/badge/torchbyte.ro-_best_hosting_services-orange">
+  <img align="left" width="64" height="128" src="https://img.shields.io/badge/torchbyte.ro-_best_hosting_services-orange">
 </p>
   <h3 align="center">
   🏆 DIN AFACERI ILEGALE N-AM SA MA RETRAG DE LOC ⚔️<br>

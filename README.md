@@ -5,6 +5,6 @@
 </h3>
 <h3 align="center">
       » [Dani Mocanu - Trag pe nas | Official Video] «<br>
- 0:12 ─〇───── 0:00<br>
+ 0:12 ─〇───── 4:16<br>
      ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
 </h3>
